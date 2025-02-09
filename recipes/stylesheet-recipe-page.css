@@ -3,7 +3,7 @@ body {
     background-color: #000; /* Black background */
     color: #fff; /* White text for readability */
     font-family: 'Arial', sans-serif; /* Clean, simple font */
-    margin: 0; /* Remove default browser margins */
+    margin: 50; /* Remove default browser margins */
     padding: 0; /* Remove default browser padding */
     line-height: 1.6;
     overflow-x: hidden; /* Prevent horizontal scroll */
