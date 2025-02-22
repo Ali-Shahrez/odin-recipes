@@ -9,13 +9,6 @@ body {
     overflow-x: hidden; /* Prevent horizontal scroll */
 }
 
-/* Container for Centered Content */
-.container {
-    max-width: 800px; /* Limit content width */
-    margin: 0 auto; /* Center the content horizontally */
-    padding: 20px; /* Add padding around the content */
-    box-sizing: border-box; /* Include padding in total width/height */
-}
 
 /* Header Styling */
 h1 {
@@ -65,10 +58,4 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Footer Styling (Optional) */
-footer {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 14px;
-    color: #aaa; /* Subtle color for footer text */
-}
+
